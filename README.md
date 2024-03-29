@@ -2,10 +2,10 @@
 # ✏️ About Me
 I am a beginner programmer in high school, looking to expand my knowledge about the emerging world of AI through my projects.
 
-##🏆 Projects I'm Working On
+## 🏆 Projects I'm Working On
 - 🧠 AnxietyPredictor - An enriched web app dedicated to analyzing and assessing student stress levels from various factors such as self-esteem and academic performance
 
-##🚵 My Hobbies
+## 🚵 My Hobbies
 Aside from programming for my projects, I enjoy mountain biking, playing video games (like Pokemon GO), and helping out organizations with community service.<br><br>
 
 # 💻 Tech Stack:
