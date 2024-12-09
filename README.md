@@ -1,4 +1,4 @@
-# 🌵 poibear 🌵
+# 🌵 josh nguyen 🌵
 i code stuff to enhance my laziness.
 
 ## 🏆 Projects I'm Working On
